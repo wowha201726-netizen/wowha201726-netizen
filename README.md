@@ -4,8 +4,8 @@
 </h1>
 <p>- 🔭 I specialize in Full-Stack web development</p>
 <p>- 👌 My mission is to develop websites and applications with user-centered design and high speed</p>
-<p>- 🌱 I’m currently learning **Deep Learning**, **Large Language Models**</p>
-<p>- 💬 Ask me about *Web development, **</p>
+<p>- 🌱 I’m currently learning <span>AI, Unreal</span></p>
+<p>- 💬 Ask me about anything related to <span>Web development, Mobile App, Blackchain, Unity, etc.</span></p>
 
 <div align="center">
   <p  align="center">
@@ -16,16 +16,16 @@
 ##  Skills ⚡
   
 #### Front-end:
-![](https://skillicons.dev/icons?i=react,nextjs,redux,java,js,ts,figma,html,css,tailwind,wordpress,nodejs,vscode,graphql,github,git,firebase,npm,docker,githubactions)
+![](https://skillicons.dev/icons?i=react,nextjs,redux,java,js,ts,figma,html,css,bootstrap,tailwind,wordpress,nodejs,vite,unity,graphql,firebase,figma,materialui,svg)
   
 #### Back-end:
-.![](https://skillicons.dev/icons?i=ts,py,php,wordpress,nodejs,express,graphql,mongodb,mysql,postgres)
+![](https://skillicons.dev/icons?i=ts,py,php,wordpress,nodejs,express,cpp,graphql,mongodb,mysql,postgres)
 
 #### Blockchain:
-.![](https://skillicons.dev/icons?i=ts,py,nodejs,express)
+![](https://skillicons.dev/icons?i=java,ts,py,php,cpp,c)
   
 #### Tools:
-![](https://skillicons.dev/icons?i=vscode,github,git,npm,docker,babel)
+![](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,github,git,npm,docker,babel,postman,powershell)
 
 <div align="center">
   <p  align="center">
