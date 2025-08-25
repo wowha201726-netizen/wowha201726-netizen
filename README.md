@@ -32,8 +32,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
 </div>
-
+<!--
 ## 🌐 Connect With Me
 <p align="left">
 <a href="mailto:wowha201726@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
-</p>
+</p>-->
