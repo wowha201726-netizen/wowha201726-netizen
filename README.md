@@ -23,10 +23,10 @@
 
 #### Blockchain:
 ![](https://skillicons.dev/icons?i=java,ts,py,php,cpp,c)
-<!--  
+
 #### Tools:
 ![](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,github,git,npm,docker,babel,postman,powershell)
-
+<!--  
 <div align="center">
   <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
